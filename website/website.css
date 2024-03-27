@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1 {
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  align-items: center;
+}
+
+.header nav ul li {
+  display: inline-block;
+}
+.header nav ul li a {
+  color: white;
+  padding: 0 10px;
+}
+
+header {
+  background-color: rgba(16, 99, 78, 0.9);
+  position: fixed;
+  width: 100vw;
+}
+
+/* * 1ci sehife */
+/section .container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.img img {
+  width: 1515px;
+  margin-bottom: 100px;
+}
+
+/* 2ci Sehife */
+.container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.qutu {
+  background-color:white;
+  width: 320px;
+  height: 400px;
+  margin: 0 0 0 250px;
+}
+
+.h1 h1 {
+  max-width: 400px;
+  font-size: xx-large;
+  color:#0c5b47; ;
+  margin-bottom: 15px;
+
+}
+
+.p {
+  max-width: 350px;
+  color:#0c5b47;
+  margin-bottom: 15px;
+  font-size: large;
+}
+
+.h4 h4{
+    color: #0c5b47;
+}
+
+.text{
+    
+    justify-content: center;
+}
